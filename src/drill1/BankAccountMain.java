@@ -12,6 +12,8 @@ public class BankAccountMain
 
         w.start();
         d.start();
+
+        System.out.println("I am the main thread!!!");
     }
 
 }
